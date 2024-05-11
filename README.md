@@ -2,6 +2,10 @@ I don't know how to write C! But I want to!
 
 This program converts your 5e Dungeons and Dragons character's wealth into the highest denominations possible, like a magical CoinStar machine. I made a similar program in Python a few years ago, but I want to learn C, and this seemed like a good test program.
 
+This program uses the denominations from 5th Edition D&D, as well as two table rules that my game's DM allows:
+1) Converting between denominations is freely allowed, but the player has to keep track of their wealth themselves; and
+2) electrum is stupid
+
 Here's an example output from the program:
 
 ```
